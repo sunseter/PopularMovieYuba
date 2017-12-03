@@ -11,6 +11,7 @@ import org.json.JSONObject;
 
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.util.ArrayList;
 
 /**
  * Created by yubaarrami on 11/2/17.
@@ -21,12 +22,12 @@ public class TmdbJsonUtils {
 
     static String baseUrl = "http://image.tmdb.org/t/p/";
     static String moviePoster;
-    public static String[] getDataForPopularity(Context context,  String TdbJsonStr) throws JSONException {
+    public static ArrayList<Movie> getDataForPopularity(Context context,  String TdbJsonStr) throws JSONException {
 
         JSONArray movieArray;
 
 
-        String[] movieContentValues;
+        ArrayList<Movie> movieList = new ArrayList<>();
 
         if (TextUtils.isEmpty(TdbJsonStr)) {
             return null;
@@ -35,7 +36,6 @@ public class TmdbJsonUtils {
 
         JSONObject movieJASONObject = new JSONObject(TdbJsonStr);
         movieArray = movieJASONObject.getJSONArray("results");
-        movieContentValues = new String[movieArray.length()];
 
         int moviesArraylength = movieArray.length();
         String stringmoviesArray = String.valueOf(moviesArraylength);
@@ -54,10 +54,11 @@ public class TmdbJsonUtils {
             String movieReleaseDate = eachMovie.getString("release_date");
 
 
-            movieContentValues[i] = movieReleaseDate
-                    + "\n" + movieSynopsis + "\n" + movieVoteCount;
+            Movie movie = new Movie(movieIdString,12,movieOriginalTitle,movieSynopsis,10,movieVoteCount,movieVoteCount,movieReleaseDate);
+
+            movieList.add(movie);
         }
-        return movieContentValues;
+        return movieList;
     }
 
     public static String buildPosterUrl() {

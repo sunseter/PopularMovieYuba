@@ -11,17 +11,19 @@ import com.example.android.popularmovieyuba.utiles.Movie;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
-import java.util.List;
 
 
 
 public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.movieAdapterViewHolder> {
 
-    public List<Movie> mMovieData=new ArrayList<>();
-    private Context context;
+    public ArrayList<Movie> mMovieData;
+    private Context mContext;
 
-    public MovieAdapter (){
 
+
+    public MovieAdapter (Context context){
+
+        mContext = context;
     }
 
     public  class movieAdapterViewHolder extends RecyclerView.ViewHolder{
@@ -53,8 +55,9 @@ public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.movieAdapter
     public void onBindViewHolder(movieAdapterViewHolder holder, int position) {
 
          if(mMovieData != null) {
-             String imgUrl = "https://image.tmdb.org/t/p/w500" + mMovieData.get(position).getMoviePosterPath();
-             Picasso.with(context).load(imgUrl)
+             String imgUrl = "https://image.tmdb.org/t/p/w500/"+mMovieData.get(position).getMoviePosterPath();
+             Picasso.with(mContext)
+                     .load(imgUrl)
                      .into(holder.mPosterImage);
              double ratings = mMovieData.get(position).getMovieVotes();
          }
@@ -75,4 +78,9 @@ public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.movieAdapter
     }
 
 
+    public void setMovieImageData(ArrayList<Movie> imageData) {
+        if (imageData != null)
+           mMovieData = new ArrayList<>(imageData);
+        notifyDataSetChanged();
+    }
 }
