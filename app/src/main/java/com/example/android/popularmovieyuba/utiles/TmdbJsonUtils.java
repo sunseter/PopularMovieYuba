@@ -65,6 +65,7 @@ public class TmdbJsonUtils {
 
         Uri uri = Uri.parse(baseUrl).buildUpon()
                 .appendPath(moviePoster)
+                .appendPath(moviePoster)
                 .build();
 
         URL url = null;
