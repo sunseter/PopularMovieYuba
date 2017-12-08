@@ -54,7 +54,7 @@ public class TmdbJsonUtils {
             String movieReleaseDate = eachMovie.getString("release_date");
 
 
-            Movie movie = new Movie(movieIdString,12,movieOriginalTitle,movieSynopsis,10,movieVoteCount,movieVoteCount,movieReleaseDate);
+            Movie movie = new Movie(movieIdString, 20.0,movieOriginalTitle,movieSynopsis,10,movieVoteCount,movieVoteCount,movieReleaseDate);
 
             movieList.add(movie);
         }

@@ -2,6 +2,7 @@ package com.example.android.popularmovieyuba;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -43,7 +44,7 @@ public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.movieAdapter
     public movieAdapterViewHolder onCreateViewHolder(ViewGroup viewGroup, int viewType) {
         Context context = viewGroup.getContext();
         int layoutIdForListItem = R.layout.movies_list_items;
-        LayoutInflater inflater = LayoutInflater.from(context);
+        LayoutInflater inflater = LayoutInflater.from(mContext);
         boolean shouldAttachToParentImmediately = false;
 
         View view = inflater.inflate(layoutIdForListItem, viewGroup, shouldAttachToParentImmediately);
@@ -60,6 +61,10 @@ public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.movieAdapter
                      .load(imgUrl)
                      .into(holder.mPosterImage);
              double ratings = mMovieData.get(position).getMovieVotes();
+             Log.e("this", " poop");
+
+         }else{
+             Log.e("this", "poop");
          }
     }
 
@@ -70,11 +75,13 @@ public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.movieAdapter
      */
     @Override
     public int getItemCount() {
+
         if (mMovieData == null) {
             return 0;
         } else {
             return mMovieData.size();
         }
+
     }
 
 
