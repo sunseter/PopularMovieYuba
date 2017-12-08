@@ -23,297 +23,297 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b322bada-ad0a-4dce-9b13-df6d3611ecca" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud843-QuakeReport-14541da929b771249ea8209698d324b61bbeee7e/app/src/main/res/values/arrays.xml" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/androidEditors.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/popularmovieyuba/MovieAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/HabitTracker/.idea/runConfigurations.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-xxhdpi/add_image_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud851-Sunshine-student-2/S04.01-Exercise-LaunchNewActivity/app/src/main/res/layout/activity_detail.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/Inventory/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud851-Exercises-student-3/Lesson02-GitHub-Repo-Search/T02.02-Exercise-AddMenu/app/src/main/res/menu/main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_vector_drawable_26_0_0_alpha1.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/Inventory/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/Inventory/app/src/main/res/menu/main.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/HabitTracker/app/src/main/java/com/example/android/habittracker/TrackerContract.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-xhdpi/add_image_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud843-QuakeReport-14541da929b771249ea8209698d324b61bbeee7e/app/src/main/java/com/example/android/quakereport/EarthquakeLoader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-xhdpi/delete.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud843-QuakeReport-14541da929b771249ea8209698d324b61bbeee7e/app/src/main/res/menu/main.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/HabitTracker/app/src/main/java/com/example/android/habittracker/TrackeDbHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/AndroidStudio2.3/options/other.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/HabitTracker/app/src/main/java/com/example/android/habittracker/HabitTrakerActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud845-Pets-starting-point/app/src/main/java/com/example/android/pets/PetCursorAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/TourGuide/app/src/main/res/layout/activity_category.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-xxxhdpi/tea_bag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/javax_annotation_javax_annotation_api_1_2_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_detailed.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/popularmovieyuba/DetailedActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_appcompat_v7_26_0_0_alpha1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_google_code_findbugs_jsr305_2_0_1_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-xhdpi/empty_cart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/javax_inject_javax_inject_1_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_constraint_constraint_layout_1_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/popularmovieyuba/utiles/TmdbJsonUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_compat_26_0_0_alpha1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-xxxhdpi/sell.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud845-Pets-starting-point/app/src/main/java/com/example/android/pets/data/PetDbHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-ldpi/empty_cart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_media_compat_26_0_0_alpha1.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/TourGuide/app/src/main/java/com/example/android/tourguide/SitesFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-xxhdpi/empty_cart.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/TourGuide/app/src/main/res/layout/list_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/TourGuide/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_fragment_26_0_0_alpha1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-mdpi/empty_cart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-xhdpi/tea_bag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_test_espresso_espresso_core_2_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/Inventory/app/src/main/java/com/example/android/inventory/data/InventoryDbHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_test_exposed_instrumentation_api_publish_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-xxhdpi/delete.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/AndroidStudio2.3/options/fileEditorProviderManager.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/menu/popularity_and_rating_menu.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-mdpi/add_image_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/TourGuide/.idea/runConfigurations.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-xxxhdpi/delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/runConfigurations.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/popularmovieyuba/utiles/Movie.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gradle.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-xxxhdpi/tea_bag.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud843-QuakeReport-14541da929b771249ea8209698d324b61bbeee7e/app/src/main/res/layout/settings_activity.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gradlew" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-mdpi/add_image_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_detailed.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_media_compat_26_0_0_alpha1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_test_espresso_espresso_idling_resource_2_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-xhdpi/sell.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud845-Pets-starting-point/app/src/main/java/com/example/android/pets/data/PetDbHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/Inventory/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_test_espresso_espresso_core_2_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-xhdpi/delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-xxhdpi/add_image_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/TourGuide/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_squareup_picasso_picasso_2_4_0_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-hdpi/add_image_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/AndroidStudio2.3/options/fileEditorProviderManager.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/TourGuide/app/src/main/res/layout/word_list.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/fileEditorProviderManager.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/Inventory/app/src/main/java/com/example/android/inventory/data/InventoryProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/movies_list_items.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud843-QuakeReport-14541da929b771249ea8209698d324b61bbeee7e/app/src/main/java/com/example/android/quakereport/EarthquakeLoader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/org_hamcrest_hamcrest_core_1_3_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud843-QuakeReport-14541da929b771249ea8209698d324b61bbeee7e/app/src/main/res/values/arrays.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/javax_annotation_javax_annotation_api_1_2_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-hdpi/delete.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud845-Pets-starting-point/app/src/main/java/com/example/android/pets/PetCursorAdapter.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-hdpi/sell.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_test_rules_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/dictionaries/yubaarrami.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud845-Pets-starting-point/app/src/main/res/layout/list_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_constraint_constraint_layout_solver_1_0_2_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_fragment_26_0_0_alpha1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/HabitTracker/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-ldpi/empty_cart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/Inventory/app/src/main/java/com/example/android/inventory/data/InventoryDbHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/menu/popularity_and_rating_menu.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-xhdpi/tea_bag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-mdpi/empty_cart.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/Inventory/app/src/main/res/layout/list_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-mdpi/tea_bag.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud843-QuakeReport-14541da929b771249ea8209698d324b61bbeee7e/app/src/main/res/xml/settings_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/android-architecture-todo-mvp-loaders/BookListing/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/TourGuide/app/src/main/java/com/example/android/tourguide/SitesFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud843-QuakeReport-14541da929b771249ea8209698d324b61bbeee7e/app/src/main/res/menu/main.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/HabitTracker/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_compat_26_0_0_alpha1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/menu/menu_sammury.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/HabitTracker/app/src/main/java/com/example/android/habittracker/HabitTrakerActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/TourGuide/app/src/main/java/com/example/android/tourguide/Items.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_constraint_constraint_layout_1_0_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud851-Sunshine-student-2/S04.01-Exercise-LaunchNewActivity/app/src/main/java/com/example/android/sunshine/DetailActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/Inventory/app/src/main/java/com/example/android/inventory/data/InventoryContract.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_vector_drawable_26_0_0_alpha1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-xxxhdpi/empty_cart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_recyclerview_v7_26_0_0_alpha1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/popularmovieyuba/MovieAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/HabitTracker/app/src/main/java/com/example/android/habittracker/TrackeDbHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/TourGuide/app/src/main/java/com/example/android/tourguide/CityAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TourGuid1/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/HabitTracker/app/src/main/java/com/example/android/habittracker/TrackerContract.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/TourGuide/.idea/runConfigurations.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud851-Exercises-student-3/Lesson03-Green-Recycler-View/T03.02-Exercise-ViewHolder/app/src/main/res/layout/number_list_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-xhdpi/empty_cart.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/HabitTracker/app/src/main/res/layout/tracker_xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-hdpi/empty_cart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_core_utils_26_0_0_alpha1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-xxxhdpi/delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-xxhdpi/empty_cart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/layout/summary_activity.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/TourGuide/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/javax_inject_javax_inject_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_appcompat_v7_26_0_0_alpha1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/org_hamcrest_hamcrest_integration_1_3_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-xxhdpi/tea_bag.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/TourGuide/app/src/main/res/values/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/TourGuide/app/src/main/res/layout/list_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_animated_vector_drawable_26_0_0_alpha1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/popularmovieyuba/utiles/NetworkUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud851-Exercises-student-3/Lesson02-GitHub-Repo-Search/T02.02-Exercise-AddMenu/app/src/main/res/menu/main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_google_code_findbugs_jsr305_2_0_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_test_exposed_instrumentation_api_publish_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/AndroidStudio2.3/options/other.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_annotations_26_0_0_alpha1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/Inventory/.idea/runConfigurations.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_core_ui_26_0_0_alpha1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/Inventory/app/src/main/java/com/example/android/inventory/InventoryCursorAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-mdpi/sell.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-xxxhdpi/sell.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud851-Sunshine-student-2/S02.02-Exercise-Menus/app/src/main/res/menu/forcast.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/popularmovieyuba/DetailedActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/gradle.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-xxxhdpi/add_image_icon.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_v4_26_0_0_alpha1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_test_runner_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-hdpi/tea_bag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/java/com/example/android/inventory/SummaryActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud845-Pets-starting-point/app/src/main/res/layout/list_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_animated_vector_drawable_26_0_0_alpha1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-hdpi/delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_core_utils_26_0_0_alpha1.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/TourGuide/app/src/main/java/com/example/android/tourguide/CityAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/popularmovieyuba/utiles/NetworkUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/TourGuide/app/src/main/res/values/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/TourGuide/app/src/main/res/layout/word_list.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/HabitTracker/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/Inventory/.idea/runConfigurations.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/org_hamcrest_hamcrest_integration_1_3_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/TourGuide/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud851-Exercises-student-3/Lesson03-Green-Recycler-View/T03.02-Exercise-ViewHolder/app/src/main/res/layout/number_list_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-mdpi/sell.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-xxhdpi/tea_bag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_constraint_constraint_layout_solver_1_0_2_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-hdpi/add_image_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud843-QuakeReport-14541da929b771249ea8209698d324b61bbeee7e/app/src/main/res/layout/settings_activity.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/Inventory/app/src/main/java/com/example/android/inventory/data/InventoryContract.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/layout/summary_activity.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-xxxhdpi/empty_cart.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud851-Sunshine-student-2/S04.01-Exercise-LaunchNewActivity/app/src/main/java/com/example/android/sunshine/DetailActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-mdpi/delete.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/HabitTracker/app/src/main/res/layout/tracker_xml.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/movies_list_items.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/Inventory/app/src/main/java/com/example/android/inventory/data/InventoryProvider.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-xxhdpi/sell.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_recyclerview_v7_26_0_0_alpha1.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud845-Pets-starting-point/app/src/main/java/com/example/android/pets/data/petContract.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/Inventory/app/src/main/res/layout/list_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/menu/menu_sammury.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/org_hamcrest_hamcrest_core_1_3_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_squareup_picasso_picasso_2_4_0_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/android-architecture-todo-mvp-loaders/BookListing/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/dictionaries/yubaarrami.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud845-Pets-starting-point/app/src/main/java/com/example/android/pets/data/PetProvider.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_core_ui_26_0_0_alpha1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/org_hamcrest_hamcrest_library_1_3_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_annotations_26_0_0_alpha1_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gradle.properties" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/Inventory/app/src/main/java/com/example/android/inventory/InventoryCursorAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TourGuid1/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud851-Sunshine-student-2/S02.02-Exercise-Menus/app/src/main/res/menu/forcast.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/HabitTracker/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud843-QuakeReport-14541da929b771249ea8209698d324b61bbeee7e/app/src/main/java/com/example/android/quakereport/SettingsActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-hdpi/empty_cart.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/TourGuide/app/src/main/java/com/example/android/tourguide/Items.java" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/fileEditorProviderManager.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/misc.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_squareup_javawriter_2_1_1_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud843-QuakeReport-14541da929b771249ea8209698d324b61bbeee7e/app/src/main/res/xml/settings_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-mdpi/tea_bag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/number_four.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/color_gray.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/number_two.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/family_younger_brother.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/color_brown.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/family_father.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/number_one.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/number_five.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/number_two.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/family_younger_sister.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/number_nine.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/family_daughter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/color_black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/number_six.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/number_four.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/color_gray.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/number_six.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/number_seven.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/number_three.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/color_brown.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../NDGPractice/app/src/main/res/raw/phrase_where_are_you_going.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/number_five.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/color_mustard_yellow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/family_older_brother.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/color_gray.png" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-xhdpi/sell.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/java/com/example/android/inventory/SummaryActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/Inventory/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/Inventory/app/src/main/res/menu/main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/popularmovieyuba/utiles/TmdbJsonUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud851-Sunshine-student-2/S04.01-Exercise-LaunchNewActivity/app/src/main/res/layout/activity_detail.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/androidEditors.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-mdpi/delete.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/TourGuide/app/src/main/res/layout/activity_category.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud845-Pets-starting-point/app/src/main/java/com/example/android/pets/data/PetProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/runConfigurations.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud845-Pets-starting-point/app/src/main/java/com/example/android/pets/data/petContract.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/HabitTracker/.idea/runConfigurations.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-xxhdpi/delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-xhdpi/add_image_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-xxhdpi/sell.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/org_hamcrest_hamcrest_library_1_3_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/ud843-QuakeReport-14541da929b771249ea8209698d324b61bbeee7e/app/src/main/java/com/example/android/quakereport/SettingsActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Inventory/app/src/main/res/drawable-hdpi/tea_bag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_test_runner_0_5.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../NDGPractice/app/src/main/res/raw/phrase_yes_im_coming.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/color_dusty_yellow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/family_younger_brother.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/family_grandmother.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/number_ten.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/ic_play_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/family_mother.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/number_seven.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/family_grandfather.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../NDGPractice/.idea/runConfigurations.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/number_two.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/family_older_sister.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../NDGPractice/app/src/main/res/raw/phrase_how_are_you_feeling.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/color_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/color_black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/number_five.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/color_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/family_father.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/family_younger_sister.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/color_red.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/family_grandfather.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/number_six.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/number_five.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/family_older_brother.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/number_three.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/color_dusty_yellow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/family_mother.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/color_white.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/family_younger_brother.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../NDGPractice/app/src/main/res/raw/phrase_im_coming.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/color_dusty_yellow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../PlayerApp/.idea/runConfigurations.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../NDGPractice/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/family_grandmother.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/color_red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/family_younger_brother.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/number_ten.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/family_older_sister.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/ic_play_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/number_one.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/family_younger_sister.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/number_one.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/ic_play_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/family_older_brother.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/color_dusty_yellow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/family_daughter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/family_son.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/number_seven.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../NDGPractice/app/src/main/res/raw/phrase_im_feeling_good.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/color_red.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/family_father.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/color_brown.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/number_ten.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/family_mother.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/family_son.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/family_daughter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/color_mustard_yellow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/number_four.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/family_son.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/color_brown.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/family_older_sister.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/color_black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/number_six.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/number_three.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/color_dusty_yellow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/family_son.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../NDGPractice/app/src/main/res/raw/phrase_where_are_you_going.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/family_younger_brother.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/family_grandmother.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/number_five.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/number_five.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/color_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../NDGPractice/.idea/runConfigurations.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/number_four.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/number_one.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/number_three.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/family_grandmother.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/number_two.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../PlayerApp/.idea/runConfigurations.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/color_green.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../NDGPractice/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/color_dusty_yellow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/number_four.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/family_father.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/number_eight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/number_six.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/color_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/color_gray.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/color_mustard_yellow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/family_grandfather.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/color_green.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/family_younger_brother.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/number_nine.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/number_nine.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/number_two.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../PlayerApp/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/family_older_sister.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/number_one.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/color_brown.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/color_brown.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/color_red.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/family_son.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/color_green.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/number_nine.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/ic_play_24dp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/family_son.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/color_red.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/number_ten.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/family_mother.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/number_nine.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/family_older_sister.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/color_green.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/color_green.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../NDGPractice/app/src/main/res/raw/phrase_im_coming.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/family_grandmother.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/number_eight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/family_younger_brother.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/number_two.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/family_daughter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/family_older_sister.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/family_daughter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/family_older_sister.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../NDGPractice/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/number_one.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/number_four.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/color_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/ic_play_24dp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/number_four.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../NDGPractice/app/src/main/res/raw/phrase_what_is_your_name.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/number_ten.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/family_daughter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/number_ten.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/family_older_sister.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/number_five.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/color_gray.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/number_three.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/number_two.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/number_eight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/ic_play_24dp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/number_eight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../NDGPractice/app/src/main/res/raw/phrase_lets_go.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/family_younger_sister.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/color_mustard_yellow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/color_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/number_one.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/family_father.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/family_father.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/color_gray.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/family_older_brother.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/color_red.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/number_ten.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/color_mustard_yellow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/family_daughter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/number_three.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/color_mustard_yellow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/family_older_brother.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/family_grandfather.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/family_daughter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/family_son.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/color_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/number_six.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/family_older_brother.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/color_brown.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/number_seven.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/number_three.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/family_son.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/family_younger_sister.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/color_gray.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/number_one.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/family_son.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/color_mustard_yellow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/number_two.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/number_seven.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/ic_play_24dp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/number_six.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/color_brown.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/color_gray.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/family_grandfather.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/family_father.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/color_white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/family_grandfather.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../NDGPractice/app/src/main/res/raw/phrase_lets_go.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/color_black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/color_mustard_yellow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/color_gray.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/family_older_brother.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/color_white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/color_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/number_six.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/family_grandfather.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/number_eight.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/number_nine.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/family_grandmother.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/color_red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/family_younger_brother.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/color_dusty_yellow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/number_two.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/number_five.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../NDGPractice/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/family_grandfather.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/family_older_sister.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/ic_play_24dp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/color_black.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/number_seven.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/color_white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/number_three.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/family_father.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/number_eight.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/number_seven.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../PlayerApp/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/color_gray.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/family_daughter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../NDGPractice/app/src/main/res/raw/phrase_what_is_your_name.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/number_nine.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/family_older_sister.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/family_grandmother.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../PlayerApp/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/number_eight.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/number_nine.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/number_eight.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/number_ten.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/ic_play_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/number_four.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/family_grandmother.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/number_eight.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/family_mother.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/number_two.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/color_red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/family_younger_sister.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/family_son.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/number_one.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/family_younger_sister.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/number_seven.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/number_four.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/color_brown.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/color_mustard_yellow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/color_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../NDGPractice/app/src/main/res/raw/phrase_im_feeling_good.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/color_mustard_yellow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/family_mother.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/color_white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/color_brown.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/number_five.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/family_younger_brother.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/number_three.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/family_father.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/family_grandfather.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../NDGPractice/app/src/main/res/raw/phrase_yes_im_coming.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/number_nine.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/color_dusty_yellow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/number_six.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/family_older_brother.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/family_daughter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/color_red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/number_one.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/family_younger_sister.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/color_white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/number_three.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/number_ten.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/family_mother.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/family_younger_sister.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/number_four.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/color_red.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/color_dusty_yellow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/ic_play_24dp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/family_younger_sister.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/color_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/family_mother.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/number_five.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/family_mother.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/family_grandfather.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/family_older_brother.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/color_green.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../PlayerApp/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-mdpi/family_grandmother.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../NDGPractice/app/src/main/res/raw/phrase_how_are_you_feeling.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/number_six.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/number_nine.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/color_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/number_eight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/family_mother.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/README.md" afterPath="$USER_HOME$/README.md" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Library/Preferences/AndroidStudio2.3/options/ignore.xml" afterPath="$USER_HOME$/Library/Preferences/AndroidStudio2.3/options/ignore.xml" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/ud839_ViewPager_Example-quiz/app/src/main/java/com/example/android/viewpager/ThursdayFragment.java" afterPath="$USER_HOME$/Downloads/ud839_ViewPager_Example-quiz/app/src/main/java/com/example/android/viewpager/ThursdayFragment.java" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/ud839_ViewPager_Example-quiz/app/src/main/res/layout/fragment_friday.xml" afterPath="$USER_HOME$/Downloads/ud839_ViewPager_Example-quiz/app/src/main/res/layout/fragment_friday.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/README.md" afterPath="$USER_HOME$/README.md" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/ud839_ViewPager_Example-quiz/app/src/main/java/com/example/android/viewpager/FridayFragment.java" afterPath="$USER_HOME$/Downloads/ud839_ViewPager_Example-quiz/app/src/main/java/com/example/android/viewpager/FridayFragment.java" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/Pause/src/Pause/Main.java" afterPath="$USER_HOME$/Downloads/Pause/src/Pause/Main.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/ud839_ViewPager_Example-quiz/app/src/main/java/com/example/android/viewpager/FridayFragment.java" afterPath="$USER_HOME$/Downloads/ud839_ViewPager_Example-quiz/app/src/main/java/com/example/android/viewpager/FridayFragment.java" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/ud839_ViewPager_Example-quiz/app/src/main/res/layout/fragment_thursday.xml" afterPath="$USER_HOME$/Downloads/ud839_ViewPager_Example-quiz/app/src/main/res/layout/fragment_thursday.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/Library/Preferences/AndroidStudio2.3/options/ignore.xml" afterPath="$USER_HOME$/Library/Preferences/AndroidStudio2.3/options/ignore.xml" />
     </list>
     <ignored path="PopularMovieYuba.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -420,7 +420,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -430,7 +432,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
               <caret line="43" column="53" lean-forward="false" selection-start-line="43" selection-start-column="53" selection-end-line="43" selection-end-column="53" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -440,7 +444,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="915">
               <caret line="72" column="6" lean-forward="false" selection-start-line="72" selection-start-column="6" selection-end-line="72" selection-end-column="6" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -482,7 +488,7 @@
       <file leaf-file-name="TmdbJsonUtils.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/popularmovieyuba/utiles/TmdbJsonUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="533">
+            <state relative-caret-position="557">
               <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
               <folding />
             </state>
@@ -491,27 +497,27 @@
       </file>
       <file leaf-file-name="movies_list_items.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/movies_list_items.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
               <folding />
             </state>
           </provider>
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
         </entry>
       </file>
       <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
               <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
-          </provider>
-          <provider editor-type-id="android-designer2">
-            <state />
           </provider>
         </entry>
       </file>
@@ -2310,6 +2316,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -2498,9 +2505,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2611,6 +2615,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2733,7 +2739,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1512765271836" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1512765883187" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2781,7 +2787,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1512765271836" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1512765883187" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2962,7 +2968,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1512765271837" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1512765883189" />
       </method>
     </configuration>
     <list size="2">
@@ -3013,7 +3019,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1323" height="805" extended-state="0" />
+    <frame x="0" y="22" width="1323" height="805" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32946298" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290938" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -3023,8 +3030,8 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32750398" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280116" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290938" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280116" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290938" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280116" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -3032,12 +3039,12 @@
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19359875" sideWeight="0.49125597" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32943013" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943013" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39767778" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965416" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26416484" sideWeight="0.50874406" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39767778" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -3076,7 +3083,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="44" column="82" lean-forward="false" selection-start-line="44" selection-start-column="82" selection-end-line="44" selection-end-column="82" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3106,7 +3115,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="26" column="44" lean-forward="false" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3185,7 +3196,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="26" column="44" lean-forward="false" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3215,7 +3228,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="26" column="44" lean-forward="false" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3247,7 +3262,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3262,7 +3279,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3285,7 +3304,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3308,7 +3329,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3355,13 +3378,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/popularity_and_rating_menu.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="44" lean-forward="false" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="android-dummy:///Users/yubaarrami/Desktop/PopularMovieYuba//Theme Editor">
@@ -3370,6 +3393,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="38" lean-forward="false" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
@@ -3378,9 +3404,6 @@
             <marker date="1511665025010" expanded="true" signature="896:926" ph="..." />
           </folding>
         </state>
-      </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
@@ -3410,14 +3433,44 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_detailed.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/popularmovieyuba/DetailedActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/popularmovieyuba/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="43" column="53" lean-forward="false" selection-start-line="43" selection-start-column="53" selection-end-line="43" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/popularmovieyuba/MovieAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="72" column="6" lean-forward="false" selection-start-line="72" selection-start-column="6" selection-end-line="72" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/popularmovieyuba/utiles/Movie.java">
@@ -3452,55 +3505,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/popularmovieyuba/DetailedActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/popularmovieyuba/MovieAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="72" column="6" lean-forward="false" selection-start-line="72" selection-start-column="6" selection-end-line="72" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/movies_list_items.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/popularmovieyuba/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="43" column="53" lean-forward="false" selection-start-line="43" selection-start-column="53" selection-end-line="43" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/popularmovieyuba/utiles/TmdbJsonUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
+        <state relative-caret-position="557">
           <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
           <folding />
         </state>
