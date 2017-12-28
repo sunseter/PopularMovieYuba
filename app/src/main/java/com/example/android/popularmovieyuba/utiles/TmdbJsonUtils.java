@@ -28,6 +28,7 @@ public class TmdbJsonUtils {
 
 
         ArrayList<Movie> movieList = new ArrayList<>();
+        String[] how = null;
 
         if (TextUtils.isEmpty(TdbJsonStr)) {
             return null;
@@ -53,10 +54,7 @@ public class TmdbJsonUtils {
             String movieVoteCount = Integer.toString(eachMovie.getInt("vote_count"));
             String movieReleaseDate = eachMovie.getString("release_date");
 
-
-            Movie movie = new Movie(movieIdString, 20.0,movieOriginalTitle,movieSynopsis,10,movieVoteCount,movieVoteCount,movieReleaseDate);
-
-            movieList.add(movie);
+            
         }
         return movieList;
     }
@@ -64,7 +62,6 @@ public class TmdbJsonUtils {
     public static String buildPosterUrl() {
 
         Uri uri = Uri.parse(baseUrl).buildUpon()
-                .appendPath(moviePoster)
                 .appendPath(moviePoster)
                 .build();
 

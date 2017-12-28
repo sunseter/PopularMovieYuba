@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PopularMovieYuba</string>
+    <string name="most_popular_item_option">most popular</string>
+    <string name="high_rated_menu_option">high rated</string>
+</resources>

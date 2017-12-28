@@ -126,4 +126,6 @@ public class Movie implements Parcelable {
         dest.writeString(movieReleaseDate);
 
     }
+
+
 }
